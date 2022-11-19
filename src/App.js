@@ -19,7 +19,7 @@ function App() {
                   alt="Flowbite Logo"
                 />
                 <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-                  Flowbite
+                  Flowbite 16:39
                 </span>
               </Navbar.Brand>
               <div className="flex md:order-2">
